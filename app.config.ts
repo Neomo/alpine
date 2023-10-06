@@ -1,6 +1,6 @@
 export default defineAppConfig({
   alpine: {
-    title: 'Alpine',
+    title: 'Neo',
     description: 'The minimalist blog theme',
     image: {
       src: '/social-card-preview.png',
